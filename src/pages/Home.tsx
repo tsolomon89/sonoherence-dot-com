@@ -40,7 +40,7 @@ export function Home() {
         <section className="hero-section section-pad">
           <div className="container hero-grid">
             <div className="hero-copy" data-reveal ref={registerReveal} style={revealStyle(0)}>
-              <h1 className="headline-glow">The<br/>Sonoherence<br/>Waterbed</h1>
+              <h1 className="headline-glow">Sonoherence<br/>Waterbed</h1>
               <p className="hero-subtitle">
                 Immerse Yourself in Vibrational Bliss
               </p>
