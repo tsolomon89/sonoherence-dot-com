@@ -24,7 +24,7 @@ function SceneCanvas({
   tier,
   reducedMotion,
 }: {
-  onJoinWaitlist: () => void;
+  scrollData: { current: { offset: number } };
   modelAvailable: boolean;
   tier: DeviceTier;
   reducedMotion: boolean;
